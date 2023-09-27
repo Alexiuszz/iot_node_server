@@ -1,0 +1,18 @@
+{
+  "name": "iot_server",
+  "version": "1.0.0",
+  "description": "IOT Server for exp32",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IOT"
+  ],
+  "author": "Nwala Enyinna",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socketio": "^1.0.0"
+  }
+}
